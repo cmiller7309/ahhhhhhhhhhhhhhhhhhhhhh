@@ -74,6 +74,11 @@
 			"Name": "ThreepeatAnimTools",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/576ae5f6-df60-42cc-b0e7-5681beb6d585"
+		},
+		{
+			"Name": "InteractiveWorld",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6fef18d187bf4942abad64f2d98a9a73"
 		}
 	],
 	"AdditionalPluginDirectories": [
